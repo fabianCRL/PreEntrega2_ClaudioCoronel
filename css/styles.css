@@ -2,8 +2,18 @@
     display: flex;
     justify-content: center;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(51, 50, 50);
+    color: floralwhite;    
+    border-color: deeppink;
+    border-width: 2px;
+    border-style: solid;
 }
 
+.card{
+    display: flex;   
+    margin: 20px;
+    padding: 10px;
+}
 /* .imgLogo {
     size: 20vh;
 } */
