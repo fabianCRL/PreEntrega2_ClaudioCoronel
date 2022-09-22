@@ -18,3 +18,29 @@
 .Titulo2{
     padding-top: 15vh;
 }
+
+.piePagina{
+    background-color:rgba(255, 0, 34, 0.822)
+}
+
+.logoZM{
+    border-radius: 50px;
+}
+
+.parrafoFooter{
+    color: white;
+}
+
+.tituloFooter{
+    color: rgb(29, 28, 28);
+}
+
+.btn{
+    background-color: black;
+    border-color: white;
+    color: coral;
+}
+
+.formulario1{
+    padding-top: 8vh;
+}
