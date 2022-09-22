@@ -44,3 +44,15 @@
 .formulario1{
     padding-top: 8vh;
 }
+
+.tituloEstrenos{
+    color: white;
+    background-color: rgb(0, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 3rem;
+    margin: 3vh;
+    padding: 15px;
+}
+.parrafoEstrenos{
+    margin: 3vh;
+}
