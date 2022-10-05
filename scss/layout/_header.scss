@@ -1,0 +1,29 @@
+.titulo {
+    &_1 {
+        display: flex;
+        justify-content: center;
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: rgb(51, 50, 50);
+        color: $color-ter;
+        border-color: $color-sec;
+        border-width: 2px;
+        border-style: solid;
+    }
+
+    &_2 {
+        padding-top: 15vh;
+    }
+
+    &Estrenos {
+        color: $color-ter;
+        background-color: rgb(0, 0, 0);
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        border-radius: 3rem;
+        margin: 3vh;
+        padding: 15px;
+    }
+
+    &_Footer {
+        color: rgb(29, 28, 28);
+    }
+}

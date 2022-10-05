@@ -1,0 +1,58 @@
+.titulo1 {
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(51, 50, 50);
+    color: floralwhite;    
+    border-color: deeppink;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.card{
+    display: flex;   
+    margin: 20px;
+    padding: 10px;
+}
+
+.titulo2{
+    padding-top: 15vh;
+}
+
+.piePagina{
+    background-color:rgba(255, 0, 34, 0.822)
+}
+
+.logoZM{
+    border-radius: 50px;
+}
+
+.parrafo_Footer{
+    color: white;
+}
+
+.tituloFooter{
+    color: rgb(29, 28, 28);
+}
+
+.btn{
+    background-color: black;
+    border-color: white;
+    color: coral;
+}
+
+.formulario1{
+    padding-top: 5vh;
+}
+
+.tituloEstrenos{
+    color: white;
+    background-color: rgb(0, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 3rem;
+    margin: 3vh;
+    padding: 15px;
+}
+.parrafo_1{
+    margin: 3vh;
+}

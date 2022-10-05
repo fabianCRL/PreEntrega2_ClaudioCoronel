@@ -1,58 +1,53 @@
-.Titulo1 {
-    display: flex;
-    justify-content: center;
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(51, 50, 50);
-    color: floralwhite;    
-    border-color: deeppink;
-    border-width: 2px;
-    border-style: solid;
+.titulo_1 {
+  display: flex;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(51, 50, 50);
+  color: floralwhite;
+  border-color: red;
+  border-width: 2px;
+  border-style: solid;
+}
+.titulo_2 {
+  padding-top: 15vh;
+}
+.tituloEstrenos {
+  color: floralwhite;
+  background-color: rgb(0, 0, 0);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  border-radius: 3rem;
+  margin: 3vh;
+  padding: 15px;
+}
+.titulo_Footer {
+  color: rgb(29, 28, 28);
 }
 
-.card{
-    display: flex;   
-    margin: 20px;
-    padding: 10px;
+.btn {
+  background-color: black;
+  border-color: floralwhite;
+  color: coral;
 }
 
-.Titulo2{
-    padding-top: 15vh;
+.card {
+  display: flex;
+  margin: 20px;
+  padding: 10px;
 }
 
-.piePagina{
-    background-color:rgba(255, 0, 34, 0.822)
+.parrafo_1 {
+  margin: 3vh;
+}
+.parrafo_Footer {
+  color: floralwhite;
 }
 
-.logoZM{
-    border-radius: 50px;
+.logoZM {
+  border-radius: 50px;
 }
 
-.parrafoFooter{
-    color: white;
+.piePagina {
+  background-color: red;
 }
 
-.tituloFooter{
-    color: rgb(29, 28, 28);
-}
-
-.btn{
-    background-color: black;
-    border-color: white;
-    color: coral;
-}
-
-.formulario1{
-    padding-top: 5vh;
-}
-
-.tituloEstrenos{
-    color: white;
-    background-color: rgb(0, 0, 0);
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    border-radius: 3rem;
-    margin: 3vh;
-    padding: 15px;
-}
-.parrafo1{
-    margin: 3vh;
-}
+/*# sourceMappingURL=styles.css.map */
