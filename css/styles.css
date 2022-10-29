@@ -8,9 +8,11 @@
   border-width: 2px;
   border-style: solid;
 }
+
 .titulo_2 {
   padding-top: 15vh;
 }
+
 .tituloEstrenos {
   color: floralwhite;
   background-color: rgb(0, 0, 0);
@@ -19,6 +21,7 @@
   margin: 3vh;
   padding: 15px;
 }
+
 .titulo_Footer {
   color: rgb(29, 28, 28);
 }
@@ -38,6 +41,7 @@
 .parrafo_1 {
   margin: 3vh;
 }
+
 .parrafo_Footer {
   color: floralwhite;
 }
@@ -50,9 +54,10 @@
   background-color: red;
 }
 
-.img_criticas{
+/* .img_criticas {
   display: flex;
   margin: 0 12 12 0;
-}
+  position:
+} */
 
 /*# sourceMappingURL=styles.css.map */
