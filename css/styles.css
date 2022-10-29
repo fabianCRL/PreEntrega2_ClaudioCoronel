@@ -50,4 +50,9 @@
   background-color: red;
 }
 
+.img_criticas{
+  display: flex;
+  margin: 0 12 12 0;
+}
+
 /*# sourceMappingURL=styles.css.map */
