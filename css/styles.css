@@ -54,10 +54,20 @@
   background-color: red;
 }
 
-/* .img_criticas {
-  display: flex;
-  margin: 0 12 12 0;
-  position:
-} */
+.img_criticas {
+  max-width: 100%;
+  height: auto;
+  display: inline-block;
+  vertical-align: middle;
+  float: left !important;
+}
+
+.lista_criticas {  
+  float: left;
+  width: 60%;
+  margin-left: 0;
+  margin-bottom: 0;
+  list-style-position: inside;
+}
 
 /*# sourceMappingURL=styles.css.map */
